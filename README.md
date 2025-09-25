@@ -5,16 +5,28 @@
 <h1>
   InfoDet: A Dataset for Infographic Element Detection
 </h1>
+<p align="center">
+  <a href="https://huggingface.co/datasets/InfoDet/InfoDet">
+    <img
+      src="https://img.shields.io/badge/InfoDet-Data-orange?logo=huggingface&logoColor=yellow" 
+      alt="InfoDet data on Hugging Face"
+    />
+  </a>
+</p>
+> InfoDet is a dataset designed to support the development of accurate object detection models for charts and HROs in infographics. It contains 11,264 real and 90,000 synthetic infographics, with over 14 million bounding box annotations.
 
-> InfoDet is a dataset designed to support the development of accurate object detection models for charts and HROs in infographics. It contains 26,250 real and 78,750 synthetic infographics, with over 6.9 million bounding box annotations.
+![TEASER](./assets/teaser.png)
 
 ## 🔥 News
-🎉🎉 We have released the first version of our dataset, which includes 26,250 real and 78,750 synthetic infographic charts, with over 6.9 million bounding box annotations.
+🎉🎉 We have released the first version of our dataset, which includes 11,264 real and 90,000 synthetic infographic charts, with over 14 million bounding box annotations.
 
 ## 📦 Dataset
+**[👉 Access the full InfoDet dataset on Hugging Face 🤗! 👈](https://huggingface.co/datasets/InfoDet/InfoDet)**
 
 InfoDet comprises a diverse collection of infographics from two sources: 1) real infographics collected from 7 online platforms, and 2) synthetic infographics programmatically created from 1,072 design templates.
 To effectively annotate the infographics, we combine the model-in-the-loop and programmatic methods.
+
+![PIPELINE](./assets/pipe.jpg)
 
 ## 🎯 Applications
 
