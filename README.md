@@ -76,12 +76,12 @@ If you find our work helpful for your research, please consider citing the follo
 
 ```bibtex
 @inproceedings{
-zhu2026infodet,
-title={InfoDet: A Dataset for Infographic Element Detection},
-author={Jiangning Zhu and Yuxing Zhou and Zheng Wang and Juntao Yao and Yima Gu and Yuhui Yuan and Shixia Liu},
-booktitle={The Fourteenth International Conference on Learning Representations},
-year={2026},
-url={https://openreview.net/forum?id=Wj0Sc9WBHZ}
+    zhu2026infodet,
+    title={InfoDet: A Dataset for Infographic Element Detection},
+    author={Jiangning Zhu and Yuxing Zhou and Zheng Wang and Juntao Yao and Yima Gu and Yuhui Yuan and Shixia Liu},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=Wj0Sc9WBHZ}
 }
 ```
 
