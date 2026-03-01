@@ -89,9 +89,11 @@ If you find our work helpful for your research, please consider citing the follo
 ## ✨ Related Projects
 
 - **ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**  
-  [Paper](https://arxiv.org/abs/2503.00814) | [Code](https://github.com/Benny-Li-BI/ChartGalaxy) | [Dataset](https://huggingface.co/datasets/pengfeiliBI/ChartGalaxyDataset)
+[Paper](https://arxiv.org/abs/2505.18668) | [Code](https://github.com/ChartGalaxy/ChartGalaxy) | [Dataset](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)
+
 - **InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**  
-  [Paper](https://arxiv.org/abs/2503.08954) | [Code](https://github.com/YuxingZhou-thu/InfoChartQA) | [Dataset](https://huggingface.co/datasets/thu-vis/InfoChartQA)
+[Paper](https://arxiv.org/abs/2505.19028) | [Code](https://github.com/CoolDawnAnt/InfoChartQA) | [Dataset](https://huggingface.co/datasets/Jietson/InfoChartQA)
+
 
 
 ## 🤝 Contact
